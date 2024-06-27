@@ -3,5 +3,5 @@ Descricpción carpetas:
 - **datos Fotmob** Datos de tiros y rating extraidos de Fotmob
 - **datos Sofascore** Datos de alineaciones, estadísticas, mapas de calor, posicion promedio, tiros, etc extraídos de la web de Sofascore
 - **datos Whoscored** Datos de eventing y alineaciones extraídos de la web de Whoscored
-- **eventing** Ficheros del eventing a nivel partido
-- **players** ficheros alineaciones de cada partido
+  - **eventing** Ficheros del eventing a nivel partido
+  - **players** ficheros alineaciones de cada partido
